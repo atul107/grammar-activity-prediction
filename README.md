@@ -1,4 +1,4 @@
-# ICCV2017 - Predicting Human Activities Using Stochastic Grammar.
+# ICCV2017 - Predicting Human Activities Using Stochastic Grammar
 
 ## Files in the repository:
 - cpp: grammar induction code. Instructions for running the code can be find here: https://github.com/SiyuanQi/madios
